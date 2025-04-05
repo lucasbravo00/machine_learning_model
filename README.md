@@ -1,4 +1,4 @@
-# Passenger Survival Prediction - Decision Tree Classifier
+# Passenger Survival Analysis - Decision Tree Classifier
 
 This project presents a simple machine learning model built for educational purposes. It uses a Decision Tree Classifier to analyze passenger data and determine which features were most relevant to predicting survival.
 
